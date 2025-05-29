@@ -1,6 +1,6 @@
 # Food Delivery Website
 
-Welcome to the Food Delivery Website repository created by Shreyan Sarkar! 🍽️
+Welcome to the Food Delivery Website repository created by Pramiti Dey! 🍽️
 
 ## Description
 
